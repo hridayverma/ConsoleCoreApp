@@ -21,5 +21,9 @@ namespace ConsoleCoreApp.OOPS
         {
             Console.WriteLine("Display from Singleton Pattern");
         }
+        public void show()
+        {
+            Console.WriteLine();
+        }
     }
 }
